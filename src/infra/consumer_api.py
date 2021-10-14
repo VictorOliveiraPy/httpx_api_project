@@ -1,6 +1,7 @@
 from collections import namedtuple
 
 import httpx
+
 from src.settings import API_URL
 
 
